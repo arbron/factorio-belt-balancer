@@ -1,0 +1,10 @@
+{
+  "name": "belt-balancer",
+  "version": "0.0.1",
+  "factorio_version": "0.16",
+  "title": "Belt Balancers",
+  "author": "Arbron",
+  "contact": "me@arbron.space",
+  "description": "Adds belt balancers that sit on a single belt and allow shifting belt contents between sides of the belt.",
+  "dependencies": [	"base >= 0.16.0" ]
+}
